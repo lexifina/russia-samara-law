@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-samara",
+   "kind": "legislation",
+   "name": {
+    "en": "Samara Oblast: Official Internet Portal of Legal Information (region63)",
+    "ru": "Samara Oblast: Официальный интернет-портал правовой информации (region63)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region63",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/samara/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-samara-law",
+   "group": "pravo",
+   "tz": "Europe/Samara"
+  }
+ ]
+}
