@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:49:29Z",
+ "generated": "2026-11-25T07:02:32Z",
  "latest": {
   "pravo-samara|russia/samara/acts": {
    "attempt": 1,
@@ -13,39 +13,25 @@
    },
    "census": {
     "checked": 1642,
-    "current": 1633,
+    "current": 1642,
     "gone": 0,
-    "held": 1633,
-    "newest_in_repo": "2026-10-08",
-    "pending": 9,
-    "repo": 1633,
+    "held": 1642,
+    "newest_in_repo": "2026-11-09",
+    "pending": 0,
+    "repo": 1642,
     "source_in_scope": 1642
    },
-   "check_id": "ru-pravo-samara-20261124T144629Z",
-   "commits": {
-    "count": 4,
-    "from": "00d12865c74b960458a0735275e015540fda4c0c",
-    "to": "3f8eab4f82ef60eff35032fa23720908f024f5f9"
-   },
+   "check_id": "ru-pravo-samara-20261125T063249Z",
+   "commits": null,
    "corpus": "russia/samara/acts",
    "error": null,
-   "finished": "2026-11-24T14:49:28Z",
+   "finished": "2026-11-25T06:34:01Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region63: 1642 law-type documents listed (every page read); 1633 held here; 9 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region63: 1642 law-type documents listed (every page read); 1642 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "6300202611050001",
-     "6300202611050002",
-     "6300202611050003",
-     "6300202611050004",
-     "6300202611050005",
-     "6300202611050006",
-     "6300202611060009",
-     "6300202611090003",
-     "6300202611090004"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -53,36 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "6300202611050001",
-     "6300202611050002",
-     "6300202611050003",
-     "6300202611050004",
-     "6300202611050005",
-     "6300202611050006",
-     "6300202611060009",
-     "6300202611090003",
-     "6300202611090004"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1642 law-type documents in block region63; newest published 2026-11-09",
    "source": "pravo-samara",
-   "started": "2026-11-24T14:46:29Z",
+   "started": "2026-11-25T06:32:49Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 3,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,

@@ -4,18 +4,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Samara Oblast only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-24 14:49 UTC, Samara Oblast: Official Internet Portal of Legal Information (region63): 12 addresses read; 9 added, 0 changed, 0 removed; changes found; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-25 06:34 UTC, Samara Oblast: Official Internet Portal of Legal Information (region63): 12 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Samara Oblast: Official Internet Portal of Legal Information (region63)](http://publication.pravo.gov.ru/documents/block/region63) | `zakony-<year>/` | daily | 2026-11-24 14:49 UTC | changes found | watched |
+| [Samara Oblast: Official Internet Portal of Legal Information (region63)](http://publication.pravo.gov.ru/documents/block/region63) | `zakony-<year>/` | daily | 2026-11-25 06:34 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 06:32](checks/2026-11.md#ru-pravo-samara-20261125t063249z) | pravo-samara | 12 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-24 14:46](checks/2026-11.md#ru-pravo-samara-20261124t144629z) | pravo-samara | 12 | 9 | 0 | 0 | 0 (0) | changes found | [4](https://github.com/lexifina/russia-samara-law/compare/00d12865c74b...3f8eab4f82ef) |
 
 ## Check it yourself

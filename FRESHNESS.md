@@ -6,8 +6,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Samara Oblast: Official Internet Portal of Legal Information (region63) · `russia/samara/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 14:49 UTC**.
-- Acts held here: 1 633; current at the source: 1 633; changed at the source since the version held here: 9; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 06:34 UTC**.
+- Acts held here: 1 642; current at the source: 1 642; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.md). For programs: [data/checks/latest.json](data/checks/latest.json).
