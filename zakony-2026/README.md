@@ -1,6 +1,6 @@
 # Samara Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 40 versions, from 2026-01-16 (latest in force: 2026-11-09) · <http://publication.pravo.gov.ru/documents/block/region63>
+Законы 2026 · 41 versions, from 2026-01-16 (latest in force: 2026-11-25) · <http://publication.pravo.gov.ru/documents/block/region63>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,7 +14,10 @@
 | Закон № 105-ГД | [105-gd.md](105-gd.md) | 1 | 2026-11-06 |
 | Закон № 106-ГД | [106-gd.md](106-gd.md) | 1 | 2026-11-09 |
 | Закон № 107-ГД | [107-gd.md](107-gd.md) | 1 | 2026-11-09 |
+| Закон № 108-ГД | [108-gd.md](108-gd.md) | 1 | 2026-11-25 |
+| Закон № 109-ГД | [109-gd.md](109-gd.md) | 1 | 2026-11-25 |
 | Закон № 11-ГД | [11-gd.md](11-gd.md) | 1 | 2026-01-28 |
+| Закон № 110-ГД | [110-gd.md](110-gd.md) | 1 | 2026-11-25 |
 | Закон № 12-ГД | [12-gd.md](12-gd.md) | 1 | 2026-01-28 |
 | Закон № 13-ГД | [13-gd.md](13-gd.md) | 1 | 2026-01-28 |
 | Закон № 14-ГД | [14-gd.md](14-gd.md) | 1 | 2026-02-11 |
