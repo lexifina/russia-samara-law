@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:19:41Z",
+ "generated": "2026-11-27T06:11:42Z",
  "latest": {
   "pravo-samara|russia/samara/acts": {
    "attempt": 1,
@@ -13,33 +13,25 @@
    },
    "census": {
     "checked": 1645,
-    "current": 1642,
+    "current": 1645,
     "gone": 0,
-    "held": 1642,
-    "newest_in_repo": "2026-11-09",
-    "pending": 3,
-    "repo": 1642,
+    "held": 1645,
+    "newest_in_repo": "2026-11-25",
+    "pending": 0,
+    "repo": 1645,
     "source_in_scope": 1645
    },
-   "check_id": "ru-pravo-samara-20261126T055730Z",
-   "commits": {
-    "count": 2,
-    "from": "2833a77b65d6692bc2e4bf01b93a63ed8dfe23ed",
-    "to": "82c36c8643cff5a3cbb44e13d40b0a152b43335e"
-   },
+   "check_id": "ru-pravo-samara-20261127T055154Z",
+   "commits": null,
    "corpus": "russia/samara/acts",
    "error": null,
-   "finished": "2026-11-26T05:58:29Z",
+   "finished": "2026-11-27T05:52:34Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region63: 1645 law-type documents listed (every page read); 1642 held here; 3 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region63: 1645 law-type documents listed (every page read); 1645 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "6300202611250003",
-     "6300202611250004",
-     "6300202611250005"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -47,30 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "6300202611250003",
-     "6300202611250004",
-     "6300202611250005"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1645 law-type documents in block region63; newest published 2026-11-25",
    "source": "pravo-samara",
-   "started": "2026-11-26T05:57:30Z",
+   "started": "2026-11-27T05:51:54Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261126-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
