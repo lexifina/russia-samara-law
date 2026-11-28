@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:11:42Z",
+ "generated": "2026-11-28T06:26:01Z",
  "latest": {
   "pravo-samara|russia/samara/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1645,
     "source_in_scope": 1645
    },
-   "check_id": "ru-pravo-samara-20261127T055154Z",
+   "check_id": "ru-pravo-samara-20261128T060224Z",
    "commits": null,
    "corpus": "russia/samara/acts",
    "error": null,
-   "finished": "2026-11-27T05:52:34Z",
+   "finished": "2026-11-28T06:03:09Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region63: 1645 law-type documents listed (every page read); 1645 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1645 law-type documents in block region63; newest published 2026-11-25",
    "source": "pravo-samara",
-   "started": "2026-11-27T05:51:54Z",
+   "started": "2026-11-28T06:02:24Z",
    "unexplained": 0,
    "update": {
     "parts": []
